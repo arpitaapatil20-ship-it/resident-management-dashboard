@@ -1,51 +1,43 @@
+# Resident Management Dashboard
 
-# 📊 Resident Management Dashboard
-
-## Overview
-Excel-based Data Analyst project involving data cleaning, audit reporting, pivot tables, dashboard creation, and business insights.
+Excel-based Data Analyst project including data cleaning, audit reporting, pivot tables, dashboard creation, and business insights.
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
+- Charts
 - Slicers
-- Excel Formulas
-
-## Features
-### Data Cleaning
-- Standardized city names
-- Removed duplicates
-- Handled missing values
-- Validated dates
-
-### Analysis
-- Occupancy Rate
-- Revenue Analysis
-- Top Properties by Revenue
-- Revenue by City
-- Booking Source Analysis
-
-### Pivot Tables
-- Revenue by Property
-- Revenue by City
-- Occupancy by Property
-- Bookings by Source
-- Agreement Status Summary
-
-### Dashboard
-- KPI Cards
-- Interactive Charts
-- Slicers and Filters
-
-### Business Insights
-- Revenue trends
-- Occupancy analysis
-- Operational recommendations
-
-## Skills Demonstrated
 - Data Cleaning
-- Excel Formulas
-- Pivot Tables
-- Dashboard Design
-- Data Visualization
-- Business Analysis
+- KPI Cards
+
+## Project Features
+✅ Data Cleaning
+
+✅ Audit Report
+
+✅ Formula Assessment
+
+✅ Pivot Tables
+
+✅ Dashboard with KPIs and Charts
+
+✅ Business Insights and Recommendations
+
+## Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Pivot Tables
+
+![Pivot Tables](images/pivot_tables.png)
+
+## Analysis Answers
+
+![Analysis Answers](images/analysis_answers.png)
+
+## KPIs
+- Total Residents: 200
+- Occupancy Rate: 60%
+- Total Revenue: ₹24,45,398
+- Expired Agreements: 125
+- Pending Move-ins: 111
